@@ -7,8 +7,6 @@ By the way, I do mobile apps programming. I used to do it with Kotlin, but now I
   2. Linux Scripting, well I'm an active Linux user so it might as well be one of my skills
   3. Cyber Security, I'm studying Cyber Sec in a bootcamp program right now. So, I might need some time to master this skill.
 
-If you do have an interest with my profile, reach me at
-  +62 812 9413 9214 (WhatsApp & Telegram), or
-  tjandradarmo@protonmail.com / t.darmo.t@gmail.com
+If you do have an interest with my profile, reach me at tjandradarmo@protonmail.com
 
 I'm open with any collaboration opportunity, so feel free to ask me!
