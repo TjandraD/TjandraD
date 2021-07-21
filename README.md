@@ -27,10 +27,11 @@
 ## Latest YouTube Video(s)
 
 <!-- YouTube:START -->
-- [To-Do App #1: Flutter](https://youtu.be/hAUJRM5kiHk)
-- [Building Our Website #1 - HTML, CSS, JS](https://youtu.be/a-ZIPcH6LLE)
-- [Dart #1: Introduction to Dart](https://youtu.be/3g4QUHwcLnQ)
-- [Escaping SQL Island](https://youtu.be/Ur4Y-iNcV4A)
+- [Dart #2: Variables](https://www.youtube.com/watch?v=hcCxvlRerNo)
+- [Escaping SQL Island](https://www.youtube.com/watch?v=Ur4Y-iNcV4A)
+- [Dart #1: Introduction to Dart](https://www.youtube.com/watch?v=3g4QUHwcLnQ)
+- [Building Our Website #1 - HTML, CSS, JS](https://www.youtube.com/watch?v=a-ZIPcH6LLE)
+- [To-Do App #2 - Flutter](https://www.youtube.com/watch?v=9JLZoHkPFd0)
 <!-- YouTube:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCpL-WlkEpE_YMIfGqWEkS1g)
