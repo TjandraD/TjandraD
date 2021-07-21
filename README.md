@@ -20,9 +20,6 @@
 [<img align="left" alt="Tjandra Darmo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/tjandra_darmo)
 
 <br>
-<br>
-
----
 
 ## Latest YouTube Video(s)
 
